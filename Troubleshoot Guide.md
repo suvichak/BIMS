@@ -4,6 +4,15 @@ This guide will present you in flowchart base, so follow the link to what troubl
 ###Lets [Start diagnosis](#what-problem-do-you-have-?)
     
    
+
+
+
+
+
+
+
+
+
   
 -----
 
@@ -18,11 +27,29 @@ This guide will present you in flowchart base, so follow the link to what troubl
 
 ### [Connection between BIMS local server and BIMS central server](#connection-between-bims-local-server-and-bims-central-server)
 
+### [Some Data are incorrect](#some-data-are-incorrect)
+
+
+
+
+
+
+
+
+
+
 
 ------
 
 
 # BIMS Client 
+
+### [BIMS Client crash](#bims-client-crash ) 
+
+
+
+
+
 
 
 ------
@@ -43,3 +70,11 @@ This guide will present you in flowchart base, so follow the link to what troubl
 
 
 # Connection between BIMS local server and BIMS central server 
+
+
+
+
+------
+
+
+# Some data are incorrect 
