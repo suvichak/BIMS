@@ -2,4 +2,4 @@
 
 This is a readme file.
 
-Troubleshooting Guide here
+[Troubleshooting Guide here](#https://github.com/suvichak/BIMS/blob/master/Troubleshoot%20Guide.md)
