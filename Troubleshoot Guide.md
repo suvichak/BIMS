@@ -1,7 +1,7 @@
 #Welcome to BIMS troubleshooting guide  
 This guide will present you in flowchart base, so follow the link to what trouble that you have.
 
-###Lets [Start diagnosis](#what-problem-do-you-have)
+###Lets [Start diagnosis](#what-problem-do-you-have-?)
     
    
   
